@@ -35,10 +35,14 @@ body {
 
 #nav-bar-link{
   color: rgb(109, 109, 114);
+  font-size: 20px;
+  font-weight:bold;
+  font-family:sans-serif;
 }
 
 #nav-bar-link:hover{
   color: #2899f5;
+  text-decoration: none;
 }
 
 .headingdefined {
@@ -81,6 +85,7 @@ body {
 }
 
 .code {
+  text-align: center;
   width: 100%;
   padding: 0;
   margin: 0;
